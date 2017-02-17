@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">百度地图z10</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="title_activity_hello_world">HelloWorld</string>
+    <string name="title_activity_layer_demo">LayerDemo</string>
+    <string name="title_activity_circle_options_demo">CircleOptionsDemo</string>
+    <string name="title_activity_text_options_demo">TextOptionsDemo</string>
+    <string name="title_activity_marker_options_demo">MarkerOptionsDemo</string>
+    <string name="title_activity_search_in_bound_demo">SearchInBoundDemo</string>
+    <string name="title_activity_search_near_by_demo">SearchNearByDemo</string>
+    <string name="title_activity_search_in_city">SearchInCity</string>
+    <string name="title_activity_driving_route_plan_demo">DrivingRoutePlanDemo</string>
+    <string name="title_activity_walk_route_plan_demo">WalkRoutePlanDemo</string>
+    <string name="title_activity_transit_route_plan_demo">TransitRoutePlanDemo</string>
+    <string name="title_activity_location_demo">LocationDemo</string>
+
+</resources>
